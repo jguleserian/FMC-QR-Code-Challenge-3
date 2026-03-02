@@ -33,8 +33,8 @@ I also added a couple of extras including:
 
 ### Links
 
-- Solution URL: [See my solution on GitHub](https://github.com/jguleserian/FMC-QR-Code-Component-2.git)
-- Live Site URL: [Add live site URL here](https://jguleserian.github.io/FMC-QR-Code-Component-2/)
+- Solution URL: [See my solution on GitHub](https://github.com/jguleserian/FMC-QR-Code-Challenge-3)
+- Live Site URL: [Click to go to the live site](https://jguleserian.github.io/FMC-QR-Code-Challenge-3/)
 
 ## My process
 
@@ -60,7 +60,7 @@ I also added a couple of extras including:
 - Semantic HTML5 markup
 - CSS variables
 - Flexbox
-- Mobile-first workflow
+- AI coaching
 
 ### What I learned
 
