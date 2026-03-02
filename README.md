@@ -77,5 +77,5 @@ Specifically, to walk through all the learning paths of Frontend Mentor.
 ## Author
 
 - GitHub - [@jguleserian](https://github.com/jguleserian)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jguleserian)
-- LinkedIn - [@yourusername](https://www.linkedin.com/jeffguleserian)
+- Frontend Mentor - [@jguleserian](https://www.frontendmentor.io/profile/jguleserian)
+- LinkedIn - [@jeffguleserian](https://www.linkedin.com/jeffguleserian)
